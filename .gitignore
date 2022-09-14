@@ -1,0 +1,7 @@
+*.old
+*.mp4
+build/
+deps/
+nesynchronizovane/
+foto/
+imgNetridene/
